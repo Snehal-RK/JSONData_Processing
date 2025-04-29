@@ -41,5 +41,5 @@ This project processes JSON data to filter and display food items based on categ
 5.  Users can sort the food items based on protein and carb content.
 
 ### Output
-![localhost_8093_JSONProcessing_Home jsp](https://github.com/user-attachments/assets/cea215c5-a31a-4d79-8cc4-c489eccd912c)
+![localhost_8093_JSONProcessing_Home jsp](https://github.com/user-attachments/assets/ba8773ae-c140-4415-adb7-332c2aac4575)
 
